@@ -1,0 +1,6 @@
+https://www.cms.gov/files/document/cclf-file-data-elements-resource.pdf
+
+https://resdac.org/sites/datadocumentation.resdac.org/files/Claim%20Medicare%20Non-Payment%20Reason%20Code%20Table.txt
+
+For dgns_drg_cd field refer to https://dexur.com/drg/
+
