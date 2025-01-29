@@ -211,7 +211,7 @@ Within the notebook, you’ll find:
 **Course**: BIA-810D – Healthcare and Advanced Data Analytics (Fall 2024)
 
 For questions or collaboration opportunities, please reach out at:  
-**Email**: `your.email@example.com`
+**Email**: `mdastgir@stevens.edu`
 
 > **Disclaimer**: This analysis uses de-identified data from Syntegra. All references to real patients/providers are coincidental. This project is for educational purposes; any commercial or clinical application should undergo further validation and ethical review.
 
